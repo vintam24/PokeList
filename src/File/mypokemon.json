@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "name": "bulbasaur",
+        "nickname": "testing1",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+        "id": "2",
+        "name": "ivysaur",
+        "nickname": "testing2",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    }
+]
